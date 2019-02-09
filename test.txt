@@ -1,2 +1,4 @@
-hi
+hi 
 Promqna s git Bash
+Promqna s tortoise
+ 
